@@ -54,7 +54,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
+## License New
 
 This project is open source and available under the MIT license.
 
